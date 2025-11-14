@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tesouro misterioso</title>
+</head>
+<body>
+    <main>
+        <div class="passo" id="passo-0">
+            <p>Você estava curtindo suas ferias na praia quando derrepende vê uma garrafa vindo das ondas do mar, quando pega a garrafa se depara com um bilhete dizendo: “Se inicia aqui a sua procura, sou um abrigo natural, de um lado o mar, do outro a terra, A minha boca é estreita, mas meu interior é uma bela caverna. O que sou?"</p>
+            <button class="btn-proximo" data-proximo="1">Procurar a próxima pista</button>
+            <button class="btn-proximo" data-proximo="2">Jogar a garrafa no mar</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você pensa em qual lugar poderia estar a segunda pista, e logo lembra de uma gruta ali perto parecida com uma caverna.</p>
+            <button class="btn-proximo" data-proximo="3">explorar o interior da caverna</button>
+            <button class="btn-proximo" data-proximo="4">Ir para casa</button>
+        </div>
+        <div class="passo" id="passo-2">
+            <p>Quando você acorda no outro dia se depara com a garrafa em cima da mesa de cabeceira e decide abri-lá. Dentro da garrafa havia um pequeno papel com um desenho de uma flor e uma flecha apontando para uma arvore.</p>
+            <button class="btn-proximo" data-proximo="5">Investigar o desenho</button>
+            <button class="btn-proximo" data-proximo="6">Rasgar o papel</button>
+        </div>
+         <div class="passo" id="passo-3">
+            <p> Explorando a gruta, encontra desenhos nas paredes que pareciam ser de muitos anos atrás, analisando eles percebe que se tratava de outra pista que aparentemente levava até um antigo bosque na região.</p>
+            <button class="btn-proximo" data-proximo="7">Seguir a pista e ir até o bosque</button>
+        </div>
+         <div class="passo" id="passo-4">
+            <p>Você esquece isso e vive normalmente sua vida.</p>
+        </div>
+         <div class="passo" id="passo-5">
+            <p>Analisando o desenho, você percebe que se trata de uma árvore que tem em um antigo bosque da cidade e a flor do desenho seria dessa única árvore.</p>
+            <button class="btn-proximo" data-proximo="11">Ir para o bosque</button>
+        </div>
+         <div class="passo" id="passo-6">
+            <p>Após seguir o seu dia normalmente, você chega cansado em casa e vai dormir quando se depara com o papel magicamente inteiro em sua cama. Então, você exausto dessa perseguição, decide ir atrás das pistas.</p>
+            <button class="btn-proximo" data-proximo="13">Pesquisar sobre a flor no papel</button>
+            </div>
+         <div class="passo" id="passo-7">
+            <p>Quando você acorda no outro dia se depara com a garrafa em cima da mesa de cabeceira e decide abri-lá. Dentro da garrafa havia um pequeno papel com um desenho de uma flor e uma flecha apontando para uma arvore.</p>
+            <button class="btn-proximo" data-proximo="15">Investigar o desenho</button>
+            <button class="btn-proximo" data-proximo="16">Rasgar o papel</button>
+        </div>
+    </main>
+
+
+
+</body>
+</html>
